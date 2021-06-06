@@ -1,4 +1,3 @@
-# ethannguyen.github.io
 
 Hi I'm Ethan!
 
